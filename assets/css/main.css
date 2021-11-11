@@ -1,12 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  
-  img {
-    width: 100%;
-    height: auto;
-  }
-  
+    
   .row:after {
     content: "";
     clear: both;
@@ -60,6 +55,13 @@
     color: #ffffff;
     padding: 15px;
   }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  /*fin cabecera*/
   
   .menu ul {
     list-style-type: none;
